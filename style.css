@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-image: url("images/pbg.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color:grey;
+    }
+.text{
+   font-size: larger;
+   font-style: oblique;
+    text-align: left;
+    text-indent: 70px;
+    align-content: center;
+    text-align-last: left;
+    text-overflow: clip;
+}
+h1{
+    text-align: center;
+    text-shadow: 15px;
+}
